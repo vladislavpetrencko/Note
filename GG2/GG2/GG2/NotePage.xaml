@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GG2.NotePage">
+    <StackLayout>
+        <StackLayout>
+            <Label Text="Заголовок" />
+            <Entry Text="{Binding Path=Model.Нeader}" FontSize="Medium" />
+            <Label Text="Текст заметки" />
+            <Editor Text="{Binding Path=Model.Body}" FontSize="Medium" HeightRequest="400"/>
+            
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+            <Button Text="Сохранить" Command="{Binding ViewModel.SaveNoteCommand}" CommandParameter="{Binding Model}" />
+            <Button Text="Удалить" Command="{Binding ViewModel.DeleteNoteCommand}" CommandParameter="{Binding Model}" />
+            <Button Text="Назад" Command="{Binding Path=ViewModel.BackCommand}" />
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,16 @@
+C:\Users\VIL\Desktop\GG2\GG2\GG2\bin\Debug\netstandard2.0\GG2.deps.json
+C:\Users\VIL\Desktop\GG2\GG2\GG2\bin\Debug\netstandard2.0\GG2.dll
+C:\Users\VIL\Desktop\GG2\GG2\GG2\bin\Debug\netstandard2.0\GG2.pdb
+C:\Users\VIL\Desktop\GG2\GG2\GG2\obj\Debug\netstandard2.0\GG2.csproj.AssemblyReference.cache
+C:\Users\VIL\Desktop\GG2\GG2\GG2\obj\Debug\netstandard2.0\GG2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIL\Desktop\GG2\GG2\GG2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\VIL\Desktop\GG2\GG2\GG2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\VIL\Desktop\GG2\GG2\GG2\obj\Debug\netstandard2.0\GG2.AssemblyInfoInputs.cache
+C:\Users\VIL\Desktop\GG2\GG2\GG2\obj\Debug\netstandard2.0\GG2.AssemblyInfo.cs
+C:\Users\VIL\Desktop\GG2\GG2\GG2\obj\Debug\netstandard2.0\GG2.csproj.CoreCompileInputs.cache
+C:\Users\VIL\Desktop\GG2\GG2\GG2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\VIL\Desktop\GG2\GG2\GG2\obj\Debug\netstandard2.0\GG2.dll
+C:\Users\VIL\Desktop\GG2\GG2\GG2\obj\Debug\netstandard2.0\refint\GG2.dll
+C:\Users\VIL\Desktop\GG2\GG2\GG2\obj\Debug\netstandard2.0\GG2.pdb
+C:\Users\VIL\Desktop\GG2\GG2\GG2\obj\Debug\netstandard2.0\ref\GG2.dll
+C:\Users\VIL\Desktop\GG2\GG2\GG2\obj\Debug\netstandard2.0\NotePage.xaml.g.cs
